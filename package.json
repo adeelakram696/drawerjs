@@ -1,7 +1,7 @@
 {
   "name": "drawerjs",
-  "version": "1.0.4",
-  "description": "Drawer js (Singleton JS) can hold and provide any kind of data at every file of your project. Assign any thing and get any where in application as a single context/state. just import and you will get every thing you assigned. can also be used as inmemory cache or storing react-router history object to push to new page from any where.",
+  "version": "1.0.5",
+  "description": "Drawer Js can store/set any kind of data and pick/get that data at every file of your project. Assign any thing and get any where in application as a single context/state.",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src -d lib",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adeelakram696/singletonJS"
+    "url": "https://github.com/adeelakram696/drawerjs"
   },
   "keywords": [
     "singleton",
@@ -39,9 +39,9 @@
     "javascript"
   ],
   "bugs": {
-    "url": "https://github.com/adeelakram696/singletonJS/issues"
+    "url": "https://github.com/adeelakram696/drawerjs/issues"
   },
-  "homepage": "https://github.com/adeelakram696/singletonJS#readme",
+  "homepage": "https://github.com/adeelakram696/drawerjs#readme",
   "author": "Adeel Akram",
   "license": "MIT"
 }
