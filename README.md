@@ -1,6 +1,6 @@
 Drawer JS
 ===================
-[![Build Status](https://travis-ci.org/adeelakram696/drawerjs.svg?branch=master)](https://travis-ci.org/adeelakram696/local-cache)
+[![Build Status](https://travis-ci.org/adeelakram696/drawerjs.svg?branch=master)](https://travis-ci.org/adeelakram696/drawerjs)
 [![npm version](https://badge.fury.io/js/drawerjs.svg)](https://badge.fury.io/js/drawerjs)
 [![Coverage Status](https://coveralls.io/repos/github/adeelakram696/drawerjs/badge.svg?branch=master)](https://coveralls.io/github/adeelakram696/drawerjs?branch=master)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/adeelakram696/drawerjs/issues)
