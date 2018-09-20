@@ -1,0 +1,47 @@
+{
+  "name": "drawerjs",
+  "version": "1.0.0",
+  "description": "Drawer js (Singleton JS) can hold and provide any kind of data at every file of your project. Assign any thing and get any where in application as a single context/state. just import and you will get every thing you assigned. can also be used as inmemory cache or storing react-router history object to push to new page from any where.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "coverage": "jest --no-cache --coverage",
+    "test": "jest --coverage && ./node_modules/istanbul/lib/cli.js cover jest",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls",
+    "prepublish": "npm run build && npm run test"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-jest": "^21.2.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "jest": "^21.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adeelakram696/singletonJS"
+  },
+  "keywords": [
+    "singleton",
+    "js",
+    "inmemory",
+    "cache",
+    "singly",
+    "context",
+    "single",
+    "state",
+    "drawer",
+    "drawerjs",
+    "single-import",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/adeelakram696/singletonJS/issues"
+  },
+  "homepage": "https://github.com/adeelakram696/singletonJS#readme",
+  "author": "Adeel Akram",
+  "license": "MIT"
+}
