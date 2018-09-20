@@ -1,4 +1,4 @@
-import singleton from './index';
+import singleton from './src';
  const mockData = [{
   router: { a: 1 },
 },{
