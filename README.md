@@ -10,7 +10,8 @@ Drawer JS
 [downloads-image]: https://img.shields.io/npm/dt/drawerjs.svg?style=flat
 [downloads-url]: https://npmjs.org/package/drawerjs
 
-Drawer Js can hold and provide any kind of data at every file of your project.
+Drawer is like where you store and pick things.
+Drawer Js can store/set any kind of data and pick/get that data at every file of your project.
 Assign any thing and get any where in application as a single context/state. just import and you will get every thing you assigned. can also be used as inmemory cache or storing react-router history object to push to new page from any where.
 
 ----------
